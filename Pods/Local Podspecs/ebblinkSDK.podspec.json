@@ -1,0 +1,23 @@
+{
+  "name": "ebblinkSDK",
+  "version": "0.0.1",
+  "summary": "ebblinkSDK let's your users share an image while preserving privacy",
+  "description": "ebblinkSDK helps developers to implement a secure image sharing platform in their apps.",
+  "homepage": "http://www.ebbl.ink",
+  "license": {
+    "type": "Apache License, Version 2.0",
+    "file": "LICENSE.txt"
+  },
+  "authors": {
+    "Pau Ballart Godoy": "pballart@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ebbapp/ebblinkSDK.git"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ebblinkSDK.framework"
+  }
+}
