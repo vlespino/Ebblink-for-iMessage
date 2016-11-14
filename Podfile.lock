@@ -1,0 +1,21 @@
+PODS:
+  - ebblinkSDK (0.0.1)
+
+DEPENDENCIES:
+  - ebblinkSDK (from `https://github.com/ebbapp/ebblinkSDK`)
+
+EXTERNAL SOURCES:
+  ebblinkSDK:
+    :git: https://github.com/ebbapp/ebblinkSDK
+
+CHECKOUT OPTIONS:
+  ebblinkSDK:
+    :commit: 4d187cc8c400ba19f96abf895e1145c3979adb2d
+    :git: https://github.com/ebbapp/ebblinkSDK
+
+SPEC CHECKSUMS:
+  ebblinkSDK: 5ce4ec08204815387714a2fa668b9490823b3749
+
+PODFILE CHECKSUM: 8224483d3a9771157e786e4305d12a020aac0e82
+
+COCOAPODS: 1.0.1
